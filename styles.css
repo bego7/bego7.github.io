@@ -12,7 +12,7 @@ html,body{
     top:0;
     left:0;
     width: 100%; 
-    height: 100%; 
+    height: 110%; 
     background-color: #041728; 
     background-repeat: no-repeat; 
     background-size: cover;
@@ -34,7 +34,7 @@ html,body{
       border-width: 5px;
       border-color:white;
       z-index: 1;
-      margin: 0 auto;
+      margin: 10% auto;
     
       
       
