@@ -8,7 +8,7 @@
 
   
   $(document).ready(function(){
-    $("#cerrar").click(function(){
+    $(".close").click(function(){
       $('#exampleModal').hide();
       $('#RSVP').hide(); 
       $('#miModalito').hide();
