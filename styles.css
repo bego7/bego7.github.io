@@ -64,6 +64,10 @@ html,body{
   #mimodal{
       z-index: 0;
   }
+
+ video{
+   margin:0 25%;
+  }
   button{
       margin:0 auto;
       margin-bottom: 3%;
